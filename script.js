@@ -206,7 +206,7 @@
     '💨 „Dein Pathing war akzeptabel." — Swoop, wahrscheinlich',
     '🪶 Eine goldene Feder fällt aus dem Nichts. Grey Item. Aber heilig.',
     '⚡ Swoop gewährt dir Immunität gegen Lag. (Gilt nicht bei WLAN.)',
-    '🙏 Swoomen. Dein Gebet wurde erhört. Oder nicht. RNG halt.',
+    '🙏 Swoopen. Dein Gebet wurde erhört. Oder nicht. RNG halt.',
     '🦅 Der Schwarm erkennt dich. Du bist... akzeptabel.',
   ];
 
